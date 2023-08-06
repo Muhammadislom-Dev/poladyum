@@ -7,13 +7,15 @@ export default function Making() {
     <>
       <div className="making">
         <div className="container">
-          <h2 className="making_title">ISHLAB CHIQARISH DO'KONLARI</h2>
+          <h2 className="making_title">MANUFACTURING SHOPS</h2>
           <div className="making_flex">
             {Data.map((data) => {
               return (
-                <div className="card" style={{backgroundImage: `url(${data.img})`}}>
+                <div
+                  className="card"
+                  style={{ backgroundImage: `url(${data.img})` }}>
                   <h3 className="making_card_title">{data.title}</h3>
-                  <button className="making_card_btn">Ko'proq</button>
+                  <button className="making_card_btn">More</button>
                 </div>
               );
             })}

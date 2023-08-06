@@ -1,5 +1,5 @@
 import React from "react";
-import './About.css';
+import "./About.css";
 
 export default function About() {
   return (
@@ -15,22 +15,21 @@ export default function About() {
               />
             </div>
             <div className="about_desc_box">
-              <h2 className="about_title">Bizning kompaniya</h2>
+              <h2 className="about_title">Our company</h2>
               <p className="about_paragraf">
-                O'zbekiston Respublikasining eng yirik yengil sanoat
-                korxonalaridan biri. Korxona trikotaj mahsulotlari ishlab
-                chiqaruvchi korxona hisoblanadi. Zavod Rossiya va xorijiy
-                bozorlarda faol ishlamoqda. Kompaniya 2020 yilda tashkil etilgan
-                va shu vaqt ichida to'qimachilik trikotaj mahsulotlarining
-                ishonchli hamkori va yetkazib beruvchisi sifatida obro'
-                qozongan. Lux Yan Tex MChJ o'z mahsulotlari sifatiga va
-                hamkorlarimizning afzalliklariga katta e'tibor beradi. Ishlab
-                chiqarish tsikli maksimal darajada avtomatlashtirilgan va
-                olingan mahsulotlar sifati ustidan doimiy nazorat ostida davom
-                etadi.
+                The largest light industry of the Republic of Uzbekistan one of
+                the enterprises. The enterprise produces knitted products is a
+                producing enterprise. The plant is Russian and foreign is
+                actively working in the markets. The company was founded in 2020
+                and meanwhile of textile knitted products reputation as a
+                reliable partner and supplier won Lux Yan Tex LLC is committed
+                to the quality of its products and pays great attention to the
+                benefits of our partners. Work the release cycle is maximally
+                automated and Continuous control over the quality of the
+                obtained products is enough.
               </p>
               <div className="btn_div">
-              <button className="about_btn">Ko'roq</button>
+                <button className="about_btn">More</button>
               </div>
             </div>
           </div>

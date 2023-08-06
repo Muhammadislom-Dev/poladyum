@@ -13,7 +13,7 @@ function MainComp() {
       <Home />
       <Making />
       <About />
-      <Production />
+      {/* <Production /> */}
       <Hamkorlar />
       <FeedBack />
       <Contact />

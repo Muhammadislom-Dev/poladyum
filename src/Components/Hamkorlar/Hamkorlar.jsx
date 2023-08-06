@@ -20,7 +20,7 @@ function Hamkorlar() {
     <>
       <div className="hamkorlar">
         <div className="container">
-          <h2>Bizning Hamkorlar</h2>
+          <h2>Our Partners</h2>
           <div className="hamkor_flex">
             <Swiper
               spaceBetween={30}

@@ -19,7 +19,7 @@ function FeedBack() {
     <>
       <div className="feedback">
         <div className="container">
-          <h2>BIZNING ISHIMIZ HAQIDA FIKRLAR</h2>
+          <h2>THOUGHTS ABOUT OUR WORK</h2>
           <div className="feedback_flex">
             <Swiper
               spaceBetween={30}
@@ -38,8 +38,7 @@ function FeedBack() {
               style={{
                 minHeight: "400px",
                 marginTop: "50px",
-              }}
-            >
+              }}>
               <SwiperSlide
                 style={{
                   minHeight: "300px",
@@ -47,8 +46,7 @@ function FeedBack() {
                   alignItems: "flex-start",
                   justifyContent: "space-between",
                   background: "transparent",
-                }}
-              >
+                }}>
                 <div className="comment_box">
                   <p>
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit.
@@ -96,8 +94,7 @@ function FeedBack() {
                   alignItems: "flex-start",
                   justifyContent: "space-between",
                   background: "transparent",
-                }}
-              >
+                }}>
                 <div className="comment_box">
                   <p>
                     Lorem ipsum, dolor sit amet consectetur adipisicing elit.
