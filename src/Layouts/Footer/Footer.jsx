@@ -16,8 +16,8 @@ function Footer() {
               <h3>Dushanbadan shanbagacha soat 8:00 dan 17:00 gacha</h3>
             </div>
             <div className="footer_center">
-              <a className="num" href="tel:+998931234567">
-                +998 94 616 26 77
+              <a className="num" href="tel:+998712816842">
+                +998 71 281 68 42
               </a>
               <a className="num" href="mailto:poladyum.steyl@mail.ru">
                 poladyum.steyl@mail.ru
