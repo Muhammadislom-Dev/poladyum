@@ -23,17 +23,6 @@ function Footer() {
                 poladyum.steyl@mail.ru
               </a>
             </div>
-            {/* <div className="footer_right">
-              <a href="#">
-                <BsFacebook className="icon" />
-              </a>
-              <a href="#">
-                <BsInstagram className="icon" />
-              </a>
-              <a href="#">
-                <BsYoutube className="icon" />
-              </a>
-            </div> */}
           </div>
         </div>
       </div>
