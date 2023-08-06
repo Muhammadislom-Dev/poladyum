@@ -10,7 +10,7 @@ export default function About() {
             <div className="about_img_box">
               <img
                 className="about_picture"
-                src="https://luxyantex.uz/thumb/2/WhK6Z367WWI8LRlPhPi89w/1220r1220/d/photo_2022-02-09_15-01-55.jpg"
+                src="https://global-textile.uz/data/uploads/module/block/165/149/6379ddff1fc5d.jpg"
                 alt="pic"
               />
             </div>
